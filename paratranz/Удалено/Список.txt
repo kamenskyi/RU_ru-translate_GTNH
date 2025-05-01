@@ -1,0 +1,93 @@
+
+NEI Ore Plugin GT_NH Mod[gtneioreplugin]/lang
+GT Scanner Mod[detravscannermod]/lang
+GTNH_ Lanthanides[gtnhlanth]/lang
+GigaGramFab[ggfab]/lang
+Good Generator[goodgenerator]/lang
+GregTech[gregtech]/lang
+KekzTech[kekztech]/lang
+KubaTech[kubatech]/lang
+Storage Drawers[storagedrawers]/lang
+Storage Drawers_ Biomes O' Plenty Pack[storagedrawersbop]/lang
+Storage Drawers_ Forestry Pack[storagedrawersforestry]/lang
+Storage Drawers_ Misc Pack[storagedrawersmisc]/lang
+Storage Drawers_ Natura Pack[storagedrawersnatura]/lang
+TecTech - Tec Technology![tectech]/lang
+
+GT++(+1)[gregtech]/lang
+GT++(+1)[ic2]/lang
+GT++(+1)[miscutils]/lang
+GT++(+1)[spiceoflife]/lang
+GT++(+1)[stevescarts]/lang
+
+BartWorks(+2)[bartworks]/lang
+
+GTNH-Intergalactic[gtnhintergalactic]
+LittleTiles[littletiles]
+
+GregTech(+8)[bartworks]/lang
+GregTech(+8)[ggfab]/lang
+GregTech(+8)[gregtech]/lang
+GregTech(+8)[ic2]/lang
+GregTech(+8)[miscutils]/lang
+GregTech(+8)[spiceoflife]/lang
+GregTech(+8)[stevescarts]/lang
+GregTech(+8)[tectech]/lang
+
+GregTech(+12)[bartworks]/lang
+GregTech(+12)[ggfab]/lang
+GregTech(+12)[goodgenerator]/lang
+GregTech(+12)[gregtech]/lang
+GregTech(+12)[gtnhlanth]/lang
+GregTech(+12)[ic2]/lang
+GregTech(+12)[kekztech]/lang
+GregTech(+12)[kubatech]/lang
+GregTech(+12)[miscutils]/lang
+GregTech(+12)[spiceoflife]/lang
+GregTech(+12)[stevescarts]/lang
+GregTech(+12)[tectech]/lang
+
+GregTech(+13)[bartworks]/lang
+GregTech(+13)[ggfab]/lang
+GregTech(+13)[goodgenerator]/lang
+GregTech(+13)[gregtech]/lang
+GregTech(+13)[gtneioreplugin]/lang
+GregTech(+13)[gtnhlanth]/lang
+GregTech(+13)[ic2]/lang
+GregTech(+13)[kekztech]/lang
+GregTech(+13)[kubatech]/lang
+GregTech(+13)[miscutils]/lang
+GregTech(+13)[spiceoflife]/lang
+GregTech(+13)[stevescarts]/lang
+GregTech(+13)[tectech]/lang
+
+GregTech(+14)[bartworks]
+GregTech(+14)[detravscannermod]
+GregTech(+14)[ggfab]
+GregTech(+14)[goodgenerator]
+GregTech(+14)[gregtech]
+GregTech(+14)[gtneioreplugin]
+GregTech(+14)[gtnhlanth]
+GregTech(+14)[ic2]
+GregTech(+14)[kekztech]
+GregTech(+14)[kubatech]
+GregTech(+14)[miscutils]
+GregTech(+14)[spiceoflife]
+GregTech(+14)[stevescarts]
+GregTech(+14)[tectech]
+
+GregTech(+15)[bartworks]
+GregTech(+15)[detravscannermod]
+GregTech(+15)[ggfab]
+GregTech(+15)[goodgenerator]
+GregTech(+15)[gregtech]
+GregTech(+15)[gtneioreplugin]
+GregTech(+15)[gtnhintergalactic]
+GregTech(+15)[gtnhlanth]
+GregTech(+15)[ic2]
+GregTech(+15)[kekztech]
+GregTech(+15)[kubatech]
+GregTech(+15)[miscutils]
+GregTech(+15)[spiceoflife]
+GregTech(+15)[stevescarts]
+GregTech(+15)[tectech]
