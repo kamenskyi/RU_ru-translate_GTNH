@@ -24,6 +24,7 @@ BartWorks(+2)[bartworks]/lang
 
 GTNH-Intergalactic[gtnhintergalactic]
 LittleTiles[littletiles]
+__no-modinfo[baubles]
 
 GregTech(+8)[bartworks]/lang
 GregTech(+8)[ggfab]/lang
