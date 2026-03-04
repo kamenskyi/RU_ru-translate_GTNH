@@ -1,4 +1,3 @@
-
 NEI Ore Plugin GT_NH Mod[gtneioreplugin]/lang
 GT Scanner Mod[detravscannermod]/lang
 GTNH_ Lanthanides[gtnhlanth]/lang
@@ -13,19 +12,15 @@ Storage Drawers_ Forestry Pack[storagedrawersforestry]/lang
 Storage Drawers_ Misc Pack[storagedrawersmisc]/lang
 Storage Drawers_ Natura Pack[storagedrawersnatura]/lang
 TecTech - Tec Technology![tectech]/lang
-
 GT++(+1)[gregtech]/lang
 GT++(+1)[ic2]/lang
 GT++(+1)[miscutils]/lang
 GT++(+1)[spiceoflife]/lang
 GT++(+1)[stevescarts]/lang
-
 BartWorks(+2)[bartworks]/lang
-
 GTNH-Intergalactic[gtnhintergalactic]
 LittleTiles[littletiles]
 __no-modinfo[baubles]
-
 GregTech(+8)[bartworks]/lang
 GregTech(+8)[ggfab]/lang
 GregTech(+8)[gregtech]/lang
@@ -34,7 +29,6 @@ GregTech(+8)[miscutils]/lang
 GregTech(+8)[spiceoflife]/lang
 GregTech(+8)[stevescarts]/lang
 GregTech(+8)[tectech]/lang
-
 GregTech(+12)[bartworks]/lang
 GregTech(+12)[ggfab]/lang
 GregTech(+12)[goodgenerator]/lang
@@ -47,7 +41,6 @@ GregTech(+12)[miscutils]/lang
 GregTech(+12)[spiceoflife]/lang
 GregTech(+12)[stevescarts]/lang
 GregTech(+12)[tectech]/lang
-
 GregTech(+13)[bartworks]/lang
 GregTech(+13)[ggfab]/lang
 GregTech(+13)[goodgenerator]/lang
@@ -61,7 +54,6 @@ GregTech(+13)[miscutils]/lang
 GregTech(+13)[spiceoflife]/lang
 GregTech(+13)[stevescarts]/lang
 GregTech(+13)[tectech]/lang
-
 GregTech(+14)[bartworks]
 GregTech(+14)[detravscannermod]
 GregTech(+14)[ggfab]
@@ -76,7 +68,6 @@ GregTech(+14)[miscutils]
 GregTech(+14)[spiceoflife]
 GregTech(+14)[stevescarts]
 GregTech(+14)[tectech]
-
 GregTech(+15)[bartworks]
 GregTech(+15)[detravscannermod]
 GregTech(+15)[ggfab]
@@ -92,5 +83,6 @@ GregTech(+15)[miscutils]
 GregTech(+15)[spiceoflife]
 GregTech(+15)[stevescarts]
 GregTech(+15)[tectech]
-
-Backpack Editted for ModdedNetwork[backpack]/lang
+Backpack Editted for ModdedNetwork[backpack]
+Inventory Bogo Sorter(+2)[bogosorter]
+Inventory Bogo Sorter(+2)[craftingtweaks]
